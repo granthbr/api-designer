@@ -7,6 +7,7 @@
 [![DevDependency Status](https://david-dm.org/mulesoft/api-designer/dev-status.png)](https://david-dm.org/mulesoft/api-designer#info=devDependencies) [![npm version](https://badge.fury.io/js/api-designer.svg)](https://badge.fury.io/js/api-designer) [![Bower version](https://badge.fury.io/bo/api-designer.svg)](https://badge.fury.io/bo/api-designer)
 
 **API Designer** is a standalone/embeddable editor for [RAML](http://raml.org) (RESTful API Modeling Language) written in JavaScript using Angular.JS. By default, the editor uses an in-browser filesystem stored in HTML5 Localstorage.
+
 **Docker** run in Docker
 docker run -it -p 3000:3000 granthbr/mule-api-designer
 
