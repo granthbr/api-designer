@@ -8,7 +8,7 @@
 
 **API Designer** is a standalone/embeddable editor for [RAML](http://raml.org) (RESTful API Modeling Language) written in JavaScript using Angular.JS. By default, the editor uses an in-browser filesystem stored in HTML5 Localstorage.
   
-**Docker** run in Docker
+**Run in Docker** run in Docker
 docker run -it -p 3000:3000 granthbr/mule-api-designer
 
 ## Examples of designing RAML with API Designer in the Wild
